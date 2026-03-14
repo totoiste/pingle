@@ -6,7 +6,7 @@ Minimal ICMP ping written in C — 8-byte packets, ~5 KB in memory.
 
 ## Why pingle?
 
-Standard `ping` (iputils) carries decades of features that typical usage never touches.
+Standard `ping` [iputils](https://github.com/iputils/iputils/tree/master/ping) carries decades of features that typical usage never touches.
 pingle strips it down to the essentials:
 
 | Metric | pingle | iputils | Ratio |
